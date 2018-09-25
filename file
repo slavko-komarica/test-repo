@@ -17,3 +17,5 @@ master rebase commit 1
 master rebase commit 2
 
 master rebase commit second
+
+master rebase commit second 2
