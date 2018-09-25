@@ -11,3 +11,5 @@ branch commit 4
 master rebase confict commit
 
 branch rebase commit second
+
+branch rebase commit second 2
