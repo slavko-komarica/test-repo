@@ -15,3 +15,9 @@ branch commit 4 edit
 master rebase commit 1
 
 master rebase commit 2
+
+branch rebase commit 1
+
+branch rebase commit 2
+
+branch rebase commit 3
