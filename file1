@@ -9,3 +9,5 @@ master commit 1
 branch commit 4
 
 master rebase confict commit
+
+branch rebase commit second
