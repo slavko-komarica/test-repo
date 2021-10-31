@@ -19,3 +19,9 @@ master rebase commit 2
 master rebase commit second
 
 master rebase commit second 2
+
+master 1 change
+
+master 2 change
+
+master 3 change
