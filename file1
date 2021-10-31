@@ -15,3 +15,5 @@ branch rebase commit second
 branch rebase commit second 2
 
 feature 1 change
+
+feature 2 change
